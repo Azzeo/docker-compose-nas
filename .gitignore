@@ -19,3 +19,6 @@ docker-compose.override.yml
 /adguardhome/conf
 /adguardhome/work
 /sabnzbd
+/overseerr/logs
+/whisparr
+/overseerr
